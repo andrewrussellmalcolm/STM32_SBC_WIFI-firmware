@@ -1,0 +1,8 @@
+signature.c:59:12:wc_SignatureDerEncode	3
+signature.c:80:5:wc_SignatureGetSize	6
+signature.c:127:5:wc_SignatureVerifyHash	24
+signature.c:265:5:wc_SignatureVerify	14
+signature.c:343:5:wc_SignatureGenerateHash	1
+signature.c:353:5:wc_SignatureGenerateHash_ex	20
+signature.c:454:5:wc_SignatureGenerate	1
+signature.c:464:5:wc_SignatureGenerate_ex	15

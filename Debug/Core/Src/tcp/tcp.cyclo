@@ -1,0 +1,11 @@
+tcp.c:25:6:tcp_bind	3
+tcp.c:46:6:tcp_listen	3
+tcp.c:67:8:tcp_accept	3
+tcp.c:88:6:tcp_recv	3
+tcp.c:111:6:tcp_send	4
+tcp.c:143:6:tcp_connect	3
+tcp.c:164:10:tcp_resolve	3
+tcp.c:185:13:socket_event_callback	14
+tcp.c:260:6:socket_resolve_callback	1
+tcp.c:267:6:tcp_reset	1
+tcp.c:274:6:tcp_init	1

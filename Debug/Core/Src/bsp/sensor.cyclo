@@ -1,0 +1,7 @@
+sensor.c:44:6:sensor_init	1
+sensor.c:51:9:sensor_get_id	1
+sensor.c:59:9:sensor_get_status	1
+sensor.c:67:6:sensor_start_conversion	1
+sensor.c:74:10:sensor_get_raw_temperature	1
+sensor.c:82:7:sensor_convert_temperature	2
+sensor.c:99:7:sensor_get_temperature	3

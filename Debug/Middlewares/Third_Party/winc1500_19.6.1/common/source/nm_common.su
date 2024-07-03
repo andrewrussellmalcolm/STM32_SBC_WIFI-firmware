@@ -1,0 +1,2 @@
+../Middlewares/Third_Party/winc1500_19.6.1/common/source/nm_common.c:46:6:nm_sleep	16	static
+../Middlewares/Third_Party/winc1500_19.6.1/common/source/nm_common.c:56:6:nm_reset	8	static

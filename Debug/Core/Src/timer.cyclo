@@ -1,0 +1,2 @@
+timer.c:18:6:periodic_callback	1
+timer.c:34:6:init_timer	3

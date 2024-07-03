@@ -1,0 +1,10 @@
+misc.c:105:37:rotlFixed	1
+misc.c:259:31:XorWordsOut	2
+misc.c:271:31:xorbufout	6
+misc.c:427:37:min	1
+chacha.c:113:5:wc_Chacha_SetIV	3
+chacha.c:140:5:wc_Chacha_SetKey	7
+chacha.c:206:23:wc_Chacha_wordtobyte	3
+chacha.c:331:13:wc_Chacha_encrypt_bytes	6
+chacha.c:379:5:wc_Chacha_Process	4
+chacha.c:432:6:wc_Chacha_purge_current_block	2

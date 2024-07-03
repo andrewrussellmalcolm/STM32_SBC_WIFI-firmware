@@ -1,0 +1,10 @@
+wolfio.c:2016:6:wolfSSL_CTX_SetIORecv	2
+wolfio.c:2027:6:wolfSSL_CTX_SetIOSend	2
+wolfio.c:2039:6:wolfSSL_SSLSetIORecv	2
+wolfio.c:2051:6:wolfSSL_SSLSetIOSend	2
+wolfio.c:2062:6:wolfSSL_SetIOReadCtx	2
+wolfio.c:2069:6:wolfSSL_SetIOWriteCtx	2
+wolfio.c:2076:7:wolfSSL_GetIOReadCtx	2
+wolfio.c:2085:7:wolfSSL_GetIOWriteCtx	2
+wolfio.c:2094:6:wolfSSL_SetIOReadFlags	2
+wolfio.c:2101:6:wolfSSL_SetIOWriteFlags	2

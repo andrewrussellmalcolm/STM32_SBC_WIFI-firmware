@@ -1,0 +1,4 @@
+shell_server.c:20:5:_read	5
+shell_server.c:39:5:_write	7
+shell_server.c:78:6:kbhit	1
+shell_server.c:92:6:shell_server	1

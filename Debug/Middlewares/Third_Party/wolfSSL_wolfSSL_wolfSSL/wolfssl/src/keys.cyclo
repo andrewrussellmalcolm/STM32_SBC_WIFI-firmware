@@ -1,0 +1,7 @@
+keys.c:45:5:SetCipherSpecs	8
+keys.c:110:5:GetCipherSpec	39
+keys.c:2374:12:SetKeys	71
+keys.c:3410:12:SetAuthKeys	6
+keys.c:3477:5:SetKeysSide	8
+keys.c:3669:5:StoreKeys	9
+keys.c:4100:5:MakeMasterSecret	1

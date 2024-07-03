@@ -1,0 +1,12 @@
+poly1305.c:226:19:U8TO32	1
+poly1305.c:235:17:U32TO8	1
+poly1305.c:244:23:u32tole64	1
+poly1305.c:266:12:poly1305_blocks	3
+poly1305.c:401:12:poly1305_block	1
+poly1305.c:416:5:wc_Poly1305SetKey	4
+poly1305.c:505:5:wc_Poly1305Final	5
+poly1305.c:690:5:wc_Poly1305Update	13
+poly1305.c:809:5:wc_Poly1305_Pad	5
+poly1305.c:837:5:wc_Poly1305_EncodeSizes	2
+poly1305.c:857:5:wc_Poly1305_EncodeSizes64	2
+poly1305.c:891:5:wc_Poly1305_MAC	12

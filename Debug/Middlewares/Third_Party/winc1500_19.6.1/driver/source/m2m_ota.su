@@ -1,0 +1,15 @@
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_ota.c:74:9:m2m_ota_host_file_get_id	4	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_ota.c:89:13:m2m_ota_cb	200	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_ota.c:190:9:m2m_ota_init	48	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_ota.c:216:9:m2m_ota_notif_set_url	40	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_ota.c:238:9:m2m_ota_notif_check_for_update	32	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_ota.c:258:8:m2m_ota_notif_sched	40	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_ota.c:279:8:m2m_ota_start_update	40	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_ota.c:300:8:m2m_ota_rollback	32	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_ota.c:317:8:m2m_ota_abort	32	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_ota.c:334:8:m2m_ota_switch_firmware	32	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_ota.c:351:8:m2m_ota_get_firmware_version	24	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_ota.c:382:8:m2m_ota_host_file_get	40	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_ota.c:435:8:m2m_ota_host_file_read_hif	48	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_ota.c:477:8:m2m_ota_host_file_read_spi	32	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_ota.c:539:8:m2m_ota_host_file_erase	40	static

@@ -1,0 +1,7 @@
+../Core/Src/bsp/sensor.c:44:6:sensor_init	32	static
+../Core/Src/bsp/sensor.c:51:9:sensor_get_id	32	static
+../Core/Src/bsp/sensor.c:59:9:sensor_get_status	32	static
+../Core/Src/bsp/sensor.c:67:6:sensor_start_conversion	32	static
+../Core/Src/bsp/sensor.c:74:10:sensor_get_raw_temperature	32	static
+../Core/Src/bsp/sensor.c:82:7:sensor_convert_temperature	24	static
+../Core/Src/bsp/sensor.c:99:7:sensor_get_temperature	24	static

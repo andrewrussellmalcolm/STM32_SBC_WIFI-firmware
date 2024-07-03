@@ -1,0 +1,15 @@
+mcu.c:16:6:MCU_ReadMemory	1
+mcu.c:26:6:MCU_WriteMemory	1
+mcu.c:36:6:MCU_ClearMemory	1
+mcu.c:46:6:MCU_ReadMemoryAtOffset	1
+mcu.c:56:6:MCU_WriteMemoryAtOffset	1
+mcu.c:66:6:MCU_ReadRegisters	2
+mcu.c:75:10:MCU_ReadRegister	1
+mcu.c:81:6:MCU_WriteRegsiter	1
+mcu.c:89:6:MCU_IncrementRegister	1
+mcu.c:99:6:MCU_GetBatteryVoltage	2
+mcu.c:119:6:MCU_SetTime	1
+mcu.c:129:6:MCU_GetTime	1
+mcu.c:152:10:MCU_GetUniqueID	1
+mcu.c:158:6:MCU_SetBrownoutLevel	1
+mcu.c:170:10:MCU_GetBrownoutLevel	1

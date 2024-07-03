@@ -1,0 +1,14 @@
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_hif.c:75:15:hif_set_rx_done	16	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_hif.c:103:13:m2m_hif_cb	16	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_hif.c:112:8:hif_chip_wake	16	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_hif.c:149:6:hif_set_sleep_mode	16	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_hif.c:164:9:hif_get_sleep_mode	4	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_hif.c:175:8:hif_chip_sleep_sc	4	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_hif.c:189:8:hif_chip_sleep	16	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_hif.c:220:8:hif_init	24	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_hif.c:237:8:hif_deinit	24	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_hif.c:266:8:hif_send	56	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_hif.c:404:15:hif_isr	40	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_hif.c:547:8:hif_handle_isr	16	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_hif.c:586:8:hif_receive	32	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/m2m_hif.c:642:8:hif_register_cb	24	static

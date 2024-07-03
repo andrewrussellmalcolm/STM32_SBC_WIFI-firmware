@@ -1,0 +1,2 @@
+../Middlewares/Third_Party/winc1500_19.6.1/bsp/source/wdrv_winc_common.c:15:13:wdrv_print	16	static
+../Middlewares/Third_Party/winc1500_19.6.1/bsp/source/wdrv_winc_common.c:28:6:WDRV_MSDelay	16	static

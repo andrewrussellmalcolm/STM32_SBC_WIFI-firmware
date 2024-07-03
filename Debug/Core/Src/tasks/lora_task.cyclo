@@ -1,0 +1,5 @@
+lora_task.c:31:10:lora_mesage_count	1
+lora_task.c:37:6:lora_get_sensor_message	1
+lora_task.c:43:6:lora_put_sensor_message	1
+lora_task.c:49:6:lora_stop	1
+lora_task.c:55:6:lora_task	5

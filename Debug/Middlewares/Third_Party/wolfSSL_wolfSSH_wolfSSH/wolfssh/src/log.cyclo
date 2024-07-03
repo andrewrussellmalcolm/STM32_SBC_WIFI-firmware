@@ -1,0 +1,7 @@
+log.c:67:6:wolfSSH_Debugging_ON	1
+log.c:76:6:wolfSSH_Debugging_OFF	1
+log.c:85:6:wolfSSH_SetLoggingCb	2
+log.c:92:5:wolfSSH_LogEnabled	1
+log.c:105:20:GetLogStr	10
+log.c:140:6:DefaultLoggingCb	2
+log.c:166:6:wolfSSH_Log	3

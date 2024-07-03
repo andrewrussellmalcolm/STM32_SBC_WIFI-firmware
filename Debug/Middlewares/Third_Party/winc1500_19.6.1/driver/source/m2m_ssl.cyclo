@@ -1,0 +1,9 @@
+m2m_ssl.c:69:13:m2m_ssl_cb	22
+m2m_ssl.c:168:8:m2m_ssl_handshake_rsp	1
+m2m_ssl.c:186:8:m2m_ssl_send_certs_to_winc	3
+m2m_ssl.c:260:8:m2m_ssl_retrieve_cert	10
+m2m_ssl.c:314:8:m2m_ssl_retrieve_hash	4
+m2m_ssl.c:338:6:m2m_ssl_stop_processing_certs	1
+m2m_ssl.c:347:6:m2m_ssl_ecc_process_done	1
+m2m_ssl.c:372:8:m2m_ssl_set_active_ciphersuites	1
+m2m_ssl.c:390:8:m2m_ssl_init	1

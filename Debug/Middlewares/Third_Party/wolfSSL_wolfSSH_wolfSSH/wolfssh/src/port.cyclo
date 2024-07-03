@@ -1,0 +1,3 @@
+port.c:621:7:wstrdup	3
+port.c:636:7:wstrnstr	6
+port.c:659:7:wstrncat	2

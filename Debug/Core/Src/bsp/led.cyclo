@@ -1,0 +1,5 @@
+led.c:18:13:led0_timer_callback	1
+led.c:25:13:led1_timer_callback	1
+led.c:32:6:led_set_state	3
+led.c:51:6:led_toggle_state	3
+led.c:70:6:led_flash	3

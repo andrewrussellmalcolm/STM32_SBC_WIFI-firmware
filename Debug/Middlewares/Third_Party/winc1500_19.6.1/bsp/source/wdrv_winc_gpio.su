@@ -1,0 +1,4 @@
+../Middlewares/Third_Party/winc1500_19.6.1/bsp/source/wdrv_winc_gpio.c:15:6:WDRV_WINC_GPIOChipEnableDeassert	8	static
+../Middlewares/Third_Party/winc1500_19.6.1/bsp/source/wdrv_winc_gpio.c:21:6:WDRV_WINC_GPIOChipEnableAssert	8	static
+../Middlewares/Third_Party/winc1500_19.6.1/bsp/source/wdrv_winc_gpio.c:27:6:WDRV_WINC_GPIOResetAssert	8	static
+../Middlewares/Third_Party/winc1500_19.6.1/bsp/source/wdrv_winc_gpio.c:33:6:WDRV_WINC_GPIOResetDeassert	8	static

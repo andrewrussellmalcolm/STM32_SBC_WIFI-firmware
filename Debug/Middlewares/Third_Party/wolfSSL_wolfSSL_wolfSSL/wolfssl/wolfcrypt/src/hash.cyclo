@@ -1,0 +1,12 @@
+hash.c:69:18:wc_HashTypeConvert	3
+hash.c:146:5:wc_HashGetOID	3
+hash.c:249:18:wc_OidGetHash	8
+hash.c:318:5:wc_HashGetDigestSize	3
+hash.c:437:5:wc_HashGetBlockSize	3
+hash.c:555:5:wc_Hash	5
+hash.c:682:5:wc_HashInit_ex	4
+hash.c:789:5:wc_HashInit	1
+hash.c:794:5:wc_HashUpdate	6
+hash.c:898:5:wc_HashFinal	5
+hash.c:1001:5:wc_HashFree	4
+hash.c:1401:9:wc_Sha256Hash	4

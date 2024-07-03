@@ -1,0 +1,9 @@
+fs.c:15:12:aquire_mutex	1
+fs.c:21:12:release_mutex	1
+fs.c:27:12:read	1
+fs.c:34:12:prog	1
+fs.c:45:12:erase	1
+fs.c:56:12:sync	1
+fs.c:99:6:fs_init	3
+fs.c:125:13:append_to_file	1
+fs.c:135:6:append_to_current_file	1

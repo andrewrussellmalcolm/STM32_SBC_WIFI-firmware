@@ -1,0 +1,4 @@
+wdrv_winc_gpio.c:15:6:WDRV_WINC_GPIOChipEnableDeassert	1
+wdrv_winc_gpio.c:21:6:WDRV_WINC_GPIOChipEnableAssert	1
+wdrv_winc_gpio.c:27:6:WDRV_WINC_GPIOResetAssert	1
+wdrv_winc_gpio.c:33:6:WDRV_WINC_GPIOResetDeassert	1

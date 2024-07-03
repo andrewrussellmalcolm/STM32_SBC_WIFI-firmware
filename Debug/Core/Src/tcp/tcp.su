@@ -1,0 +1,11 @@
+../Core/Src/tcp/tcp.c:25:6:tcp_bind	24	static
+../Core/Src/tcp/tcp.c:46:6:tcp_listen	24	static
+../Core/Src/tcp/tcp.c:67:8:tcp_accept	24	static
+../Core/Src/tcp/tcp.c:88:6:tcp_recv	32	static
+../Core/Src/tcp/tcp.c:111:6:tcp_send	40	static
+../Core/Src/tcp/tcp.c:143:6:tcp_connect	24	static
+../Core/Src/tcp/tcp.c:164:10:tcp_resolve	24	static
+../Core/Src/tcp/tcp.c:185:13:socket_event_callback	40	static
+../Core/Src/tcp/tcp.c:260:6:socket_resolve_callback	16	static
+../Core/Src/tcp/tcp.c:267:6:tcp_reset	16	static
+../Core/Src/tcp/tcp.c:274:6:tcp_init	8	static

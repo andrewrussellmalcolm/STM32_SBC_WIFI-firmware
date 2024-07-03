@@ -1,0 +1,2 @@
+../Core/Src/shell/shell_wifi.c:90:11:ping_cb	24	static
+../Core/Src/shell/shell_wifi.c:27:6:shell_wifi_command	112	static

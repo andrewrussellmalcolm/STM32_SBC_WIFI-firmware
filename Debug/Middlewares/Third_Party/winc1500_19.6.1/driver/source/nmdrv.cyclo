@@ -1,0 +1,8 @@
+nmdrv.c:53:8:nm_get_firmware_info	4
+nmdrv.c:96:8:nm_get_firmware_full_info	12
+nmdrv.c:159:8:nm_get_ota_firmware_info	12
+nmdrv.c:228:8:nm_drv_init_download_mode	3
+nmdrv.c:261:8:nm_drv_init_hold	2
+nmdrv.c:305:8:nm_drv_init_start	9
+nmdrv.c:356:8:nm_drv_init	2
+nmdrv.c:375:8:nm_drv_deinit	4

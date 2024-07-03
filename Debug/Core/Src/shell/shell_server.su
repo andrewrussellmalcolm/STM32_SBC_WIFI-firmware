@@ -1,0 +1,4 @@
+../Core/Src/shell/shell_server.c:20:5:_read	24	static
+../Core/Src/shell/shell_server.c:39:5:_write	296	static
+../Core/Src/shell/shell_server.c:78:6:kbhit	4	static
+../Core/Src/shell/shell_server.c:92:6:shell_server	24	static

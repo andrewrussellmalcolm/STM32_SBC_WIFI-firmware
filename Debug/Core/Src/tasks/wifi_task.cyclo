@@ -1,0 +1,8 @@
+wifi_task.c:42:7:inet_ntoa	1
+wifi_task.c:55:10:wifi_get_ip_address	1
+wifi_task.c:61:10:wifi_get_rssi	1
+wifi_task.c:67:13:connect_to_ssid	1
+wifi_task.c:84:13:wifi_callback	17
+wifi_task.c:187:6:wifi_init	2
+wifi_task.c:207:6:wifi_interrupt_pending	1
+wifi_task.c:213:6:wifi_task	1

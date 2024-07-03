@@ -1,0 +1,12 @@
+../Core/Src/shell/shell_fs.c:19:6:shell_fsinfo_command	24	static
+../Core/Src/shell/shell_fs.c:31:6:shell_fstest_command	104	static
+../Core/Src/shell/shell_fs.c:48:6:shell_format_command	24	static
+../Core/Src/shell/shell_fs.c:77:6:shell_ls_command	600	static
+../Core/Src/shell/shell_fs.c:104:13:list_dir	336	static
+../Core/Src/shell/shell_fs.c:148:6:shell_tree_command	280	static
+../Core/Src/shell/shell_fs.c:165:6:shell_rm_command	288	static
+../Core/Src/shell/shell_fs.c:198:6:shell_cp_command	592	static
+../Core/Src/shell/shell_fs.c:271:6:shell_mv_command	64	static
+../Core/Src/shell/shell_fs.c:300:6:shell_mkdir_command	24	static
+../Core/Src/shell/shell_fs.c:319:6:shell_rmdir_command	24	static
+../Core/Src/shell/shell_fs.c:338:6:shell_cat_command	408	static

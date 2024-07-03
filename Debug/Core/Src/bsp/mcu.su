@@ -1,0 +1,15 @@
+../Core/Src/bsp/mcu.c:16:6:MCU_ReadMemory	24	static
+../Core/Src/bsp/mcu.c:26:6:MCU_WriteMemory	24	static
+../Core/Src/bsp/mcu.c:36:6:MCU_ClearMemory	24	static
+../Core/Src/bsp/mcu.c:46:6:MCU_ReadMemoryAtOffset	32	static
+../Core/Src/bsp/mcu.c:56:6:MCU_WriteMemoryAtOffset	32	static
+../Core/Src/bsp/mcu.c:66:6:MCU_ReadRegisters	32	static
+../Core/Src/bsp/mcu.c:75:10:MCU_ReadRegister	16	static
+../Core/Src/bsp/mcu.c:81:6:MCU_WriteRegsiter	16	static
+../Core/Src/bsp/mcu.c:89:6:MCU_IncrementRegister	40	static
+../Core/Src/bsp/mcu.c:99:6:MCU_GetBatteryVoltage	24	static
+../Core/Src/bsp/mcu.c:119:6:MCU_SetTime	40	static
+../Core/Src/bsp/mcu.c:129:6:MCU_GetTime	40	static
+../Core/Src/bsp/mcu.c:152:10:MCU_GetUniqueID	4	static
+../Core/Src/bsp/mcu.c:158:6:MCU_SetBrownoutLevel	40	static
+../Core/Src/bsp/mcu.c:170:10:MCU_GetBrownoutLevel	40	static

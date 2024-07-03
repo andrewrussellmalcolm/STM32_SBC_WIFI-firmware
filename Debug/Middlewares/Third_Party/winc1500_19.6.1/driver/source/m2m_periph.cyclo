@@ -1,0 +1,7 @@
+m2m_periph.c:59:15:get_gpio_idx	9
+m2m_periph.c:76:15:gpio_ioctl	6
+m2m_periph.c:105:8:m2m_periph_init	1
+m2m_periph.c:110:8:m2m_periph_gpio_set_dir	1
+m2m_periph.c:115:8:m2m_periph_gpio_set_val	1
+m2m_periph.c:120:8:m2m_periph_gpio_get_val	1
+m2m_periph.c:125:8:m2m_periph_pullup_ctrl	1

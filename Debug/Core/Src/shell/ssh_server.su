@@ -1,0 +1,4 @@
+../Drivers/CMSIS/Include/core_cm3.h:1762:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+../Core/Src/shell/ssh_server.c:52:13:start_server_thread	24	static
+../Core/Src/shell/ssh_server.c:156:13:ssh_server	408	static
+../Core/Src/shell/ssh_server.c:314:6:ssh_start	16	static

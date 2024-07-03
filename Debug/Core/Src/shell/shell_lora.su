@@ -1,0 +1,2 @@
+../Core/Src/shell/shell_lora.c:21:16:channelToChannelNum	16	static
+../Core/Src/shell/shell_lora.c:47:6:shell_lora_command	416	static

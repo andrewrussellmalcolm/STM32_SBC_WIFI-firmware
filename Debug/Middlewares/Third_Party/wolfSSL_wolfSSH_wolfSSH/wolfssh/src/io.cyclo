@@ -1,0 +1,6 @@
+io.c:55:6:wolfSSH_SetIORecv	2
+io.c:63:6:wolfSSH_SetIOSend	2
+io.c:71:6:wolfSSH_SetIOReadCtx	2
+io.c:79:6:wolfSSH_SetIOWriteCtx	2
+io.c:87:7:wolfSSH_GetIOReadCtx	2
+io.c:97:7:wolfSSH_GetIOWriteCtx	2

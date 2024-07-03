@@ -1,0 +1,8 @@
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/nmdrv.c:53:8:nm_get_firmware_info	32	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/nmdrv.c:96:8:nm_get_firmware_full_info	40	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/nmdrv.c:159:8:nm_get_ota_firmware_info	40	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/nmdrv.c:228:8:nm_drv_init_download_mode	16	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/nmdrv.c:261:8:nm_drv_init_hold	16	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/nmdrv.c:305:8:nm_drv_init_start	24	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/nmdrv.c:356:8:nm_drv_init	24	static
+../Middlewares/Third_Party/winc1500_19.6.1/driver/source/nmdrv.c:375:8:nm_drv_deinit	24	static

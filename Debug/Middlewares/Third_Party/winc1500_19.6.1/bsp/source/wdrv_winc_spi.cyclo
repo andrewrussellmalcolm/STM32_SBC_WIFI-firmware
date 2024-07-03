@@ -1,0 +1,2 @@
+wdrv_winc_spi.c:73:6:WDRV_WINC_SPIReceive	3
+wdrv_winc_spi.c:96:6:WDRV_WINC_SPISend	3

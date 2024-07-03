@@ -1,0 +1,5 @@
+logging.c:140:5:wolfSSL_SetLoggingCb	1
+logging.c:152:20:wolfSSL_GetLoggingCb	1
+logging.c:162:5:wolfSSL_Debugging_ON	1
+logging.c:176:6:wolfSSL_Debugging_OFF	1
+logging.c:183:18:wolfSSL_SetLoggingPrefix	1

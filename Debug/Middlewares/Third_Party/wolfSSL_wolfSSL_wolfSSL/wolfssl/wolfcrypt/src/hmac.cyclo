@@ -1,0 +1,14 @@
+misc.c:375:31:ForceZero	2
+misc.c:427:37:min	1
+hmac.c:68:5:wc_HmacSizeByType	12
+hmac.c:151:5:_InitHmac	2
+hmac.c:240:5:wc_HmacSetKey	24
+hmac.c:568:12:HmacKeyInnerHash	3
+hmac.c:658:5:wc_HmacUpdate	7
+hmac.c:767:5:wc_HmacFinal	10
+hmac.c:1015:5:wc_HmacInit	2
+hmac.c:1089:6:wc_HmacFree	3
+hmac.c:1181:5:wolfSSL_GetHmacMaxSize	1
+hmac.c:1198:9:wc_HKDF_Extract	7
+hmac.c:1258:9:wc_HKDF_Expand	13
+hmac.c:1350:9:wc_HKDF	3

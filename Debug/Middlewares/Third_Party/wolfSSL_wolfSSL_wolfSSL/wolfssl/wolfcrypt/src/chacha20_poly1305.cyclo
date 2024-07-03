@@ -1,0 +1,9 @@
+misc.c:375:31:ForceZero	2
+misc.c:406:30:ConstantCompare	2
+chacha20_poly1305.c:51:5:wc_ChaCha20Poly1305_Encrypt	10
+chacha20_poly1305.c:84:5:wc_ChaCha20Poly1305_Decrypt	11
+chacha20_poly1305.c:121:5:wc_ChaCha20Poly1305_CheckTag	4
+chacha20_poly1305.c:136:5:wc_ChaCha20Poly1305_Init	9
+chacha20_poly1305.c:188:5:wc_ChaCha20Poly1305_UpdateAad	10
+chacha20_poly1305.c:215:5:wc_ChaCha20Poly1305_UpdateData	14
+chacha20_poly1305.c:258:5:wc_ChaCha20Poly1305_Final	9

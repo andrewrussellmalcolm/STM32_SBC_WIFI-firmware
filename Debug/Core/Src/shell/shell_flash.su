@@ -1,0 +1,2 @@
+../Core/Src/shell/shell_flash.c:19:13:test_flash_page	536	static
+../Core/Src/shell/shell_flash.c:44:6:shell_flash_command	328	static

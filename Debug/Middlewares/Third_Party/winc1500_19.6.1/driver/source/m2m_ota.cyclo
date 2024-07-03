@@ -1,0 +1,15 @@
+m2m_ota.c:74:9:m2m_ota_host_file_get_id	1
+m2m_ota.c:89:13:m2m_ota_cb	21
+m2m_ota.c:190:9:m2m_ota_init	1
+m2m_ota.c:216:9:m2m_ota_notif_set_url	1
+m2m_ota.c:238:9:m2m_ota_notif_check_for_update	1
+m2m_ota.c:258:8:m2m_ota_notif_sched	1
+m2m_ota.c:279:8:m2m_ota_start_update	1
+m2m_ota.c:300:8:m2m_ota_rollback	1
+m2m_ota.c:317:8:m2m_ota_abort	1
+m2m_ota.c:334:8:m2m_ota_switch_firmware	1
+m2m_ota.c:351:8:m2m_ota_get_firmware_version	2
+m2m_ota.c:382:8:m2m_ota_host_file_get	5
+m2m_ota.c:435:8:m2m_ota_host_file_read_hif	5
+m2m_ota.c:477:8:m2m_ota_host_file_read_spi	11
+m2m_ota.c:539:8:m2m_ota_host_file_erase	3

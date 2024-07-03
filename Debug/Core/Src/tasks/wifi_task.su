@@ -1,0 +1,8 @@
+../Core/Src/tasks/wifi_task.c:42:7:inet_ntoa	40	static
+../Core/Src/tasks/wifi_task.c:55:10:wifi_get_ip_address	4	static
+../Core/Src/tasks/wifi_task.c:61:10:wifi_get_rssi	4	static
+../Core/Src/tasks/wifi_task.c:67:13:connect_to_ssid	40	static
+../Core/Src/tasks/wifi_task.c:84:13:wifi_callback	56	static
+../Core/Src/tasks/wifi_task.c:187:6:wifi_init	40	static
+../Core/Src/tasks/wifi_task.c:207:6:wifi_interrupt_pending	8	static
+../Core/Src/tasks/wifi_task.c:213:6:wifi_task	8	static

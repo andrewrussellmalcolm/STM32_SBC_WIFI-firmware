@@ -1,0 +1,11 @@
+../Core/Src/shell/shell.c:78:13:shell_help_command	24	static
+../Core/Src/shell/shell.c:87:6:shell_example_command	32	static
+../Core/Src/shell/shell.c:114:6:shell_display_alert	16	static
+../Core/Src/shell/shell.c:136:13:put_history	16	static
+../Core/Src/shell/shell.c:147:13:get_history	16	static
+../Core/Src/shell/shell.c:170:13:shell_history_command	24	static
+../Core/Src/shell/shell.c:181:6:shell_print_array	64	static
+../Core/Src/shell/shell.c:220:6:shell_arg_is	32	static
+../Core/Src/shell/shell.c:226:13:shell_get_parameter	32	static
+../Core/Src/shell/shell.c:282:13:process_command	64	static
+../Core/Src/shell/shell.c:308:6:shell_process_key	24	static

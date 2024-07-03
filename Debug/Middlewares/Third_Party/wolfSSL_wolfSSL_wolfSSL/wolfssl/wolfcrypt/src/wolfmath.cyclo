@@ -1,0 +1,7 @@
+wolfmath.c:76:6:mp_reverse	3
+wolfmath.c:94:5:get_digit_count	2
+wolfmath.c:102:10:get_digit	4
+wolfmath.c:119:5:mp_cond_copy	7
+wolfmath.c:165:5:get_rand_digit	1
+wolfmath.c:171:5:mp_rand	11
+wolfmath.c:231:5:wc_export_int	8
